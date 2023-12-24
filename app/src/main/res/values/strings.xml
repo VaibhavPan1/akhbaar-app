@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Akhbaar</string>
+    <string name="top_headlines">Top Headlines</string>
+    <string name="browse">Browse</string>
+    <string name="share">Share</string>
+    <string name="save">Read later</string>
+    <string name="listen">Listen</string>
+    <string name="internet_warming">Check your Internet Connection and Try Again!</string>
+    <string name="news_placeholder">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</string>
+    <string name="about">About</string>
+    <string name="about_content">This Android app, Akhbaar - A News App, is developed by:</string>
+    <string name="saved_news">Saved News</string>
+    <string name="vaibhav_pandey_2100100100188">Vaibhav Pandey</string>
+    <string name="surbhit_srivastava">Surbhit Srivastava</string>
+    <string name="for_b_tech_5th_sem_mini_project">for B.Tech. 5th sem Mini Project</string>
+
+
+</resources>
