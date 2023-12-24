@@ -18,7 +18,7 @@
             android:layout_width="match_parent"
             android:layout_height="match_parent"
             app:title="Read News"
-            app:titleCentered="true"
+            app:titleCentered="false"
             app:titleTextColor="?attr/colorOnPrimary">
 
         </com.google.android.material.appbar.MaterialToolbar>
